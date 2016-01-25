@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A08B08521C45D0A400FD45EF"
-               BuildableName = "MovieViewer.app"
-               BlueprintName = "MovieViewer"
-               ReferencedContainer = "container:MovieViewer.xcodeproj">
+               BuildableName = "CineBrowser.app"
+               BlueprintName = "CineBrowser"
+               ReferencedContainer = "container:CineBrowser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A08B08521C45D0A400FD45EF"
-            BuildableName = "MovieViewer.app"
-            BlueprintName = "MovieViewer"
-            ReferencedContainer = "container:MovieViewer.xcodeproj">
+            BuildableName = "CineBrowser.app"
+            BlueprintName = "CineBrowser"
+            ReferencedContainer = "container:CineBrowser.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A08B08521C45D0A400FD45EF"
-            BuildableName = "MovieViewer.app"
-            BlueprintName = "MovieViewer"
-            ReferencedContainer = "container:MovieViewer.xcodeproj">
+            BuildableName = "CineBrowser.app"
+            BlueprintName = "CineBrowser"
+            ReferencedContainer = "container:CineBrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A08B08521C45D0A400FD45EF"
-            BuildableName = "MovieViewer.app"
-            BlueprintName = "MovieViewer"
-            ReferencedContainer = "container:MovieViewer.xcodeproj">
+            BuildableName = "CineBrowser.app"
+            BlueprintName = "CineBrowser"
+            ReferencedContainer = "container:CineBrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
