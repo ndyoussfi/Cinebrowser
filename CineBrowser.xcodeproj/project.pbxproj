@@ -14,6 +14,7 @@
 		A08B08611C45D0A400FD45EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A08B085F1C45D0A400FD45EF /* LaunchScreen.storyboard */; };
 		A08B08691C45D27700FD45EF /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08B08681C45D27700FD45EF /* MoviesViewController.swift */; };
 		A0E163C21C4CFC6B00B7826B /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E163C11C4CFC6B00B7826B /* MovieCell.swift */; };
+		A0E717B31C574E560081200C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E717B21C574E560081200C /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A08B08621C45D0A400FD45EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A08B08681C45D27700FD45EF /* MoviesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		A0E163C11C4CFC6B00B7826B /* MovieCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		A0E717B21C574E560081200C /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		B2B9121C301D5D65D706E295 /* Pods-CineBrowser.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CineBrowser.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CineBrowser/Pods-CineBrowser.debug.xcconfig"; sourceTree = "<group>"; };
 		BC06A1B6353DD0BD3FB916DF /* Pods-CineBrowser.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CineBrowser.release.xcconfig"; path = "Pods/Target Support Files/Pods-CineBrowser/Pods-CineBrowser.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				A08B08681C45D27700FD45EF /* MoviesViewController.swift */,
+				A0E717B21C574E560081200C /* DetailViewController.swift */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				A08B08571C45D0A400FD45EF /* AppDelegate.swift in Sources */,
 				A08B08691C45D27700FD45EF /* MoviesViewController.swift in Sources */,
 				A0E163C21C4CFC6B00B7826B /* MovieCell.swift in Sources */,
+				A0E717B31C574E560081200C /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
